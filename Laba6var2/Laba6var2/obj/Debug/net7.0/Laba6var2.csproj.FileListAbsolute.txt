@@ -1,0 +1,14 @@
+D:\ProgramLabs\Laba6var2\Laba6var2\bin\Debug\net7.0\Laba6var2.exe
+D:\ProgramLabs\Laba6var2\Laba6var2\bin\Debug\net7.0\Laba6var2.deps.json
+D:\ProgramLabs\Laba6var2\Laba6var2\bin\Debug\net7.0\Laba6var2.runtimeconfig.json
+D:\ProgramLabs\Laba6var2\Laba6var2\bin\Debug\net7.0\Laba6var2.dll
+D:\ProgramLabs\Laba6var2\Laba6var2\bin\Debug\net7.0\Laba6var2.pdb
+D:\ProgramLabs\Laba6var2\Laba6var2\obj\Debug\net7.0\Laba6var2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramLabs\Laba6var2\Laba6var2\obj\Debug\net7.0\Laba6var2.AssemblyInfoInputs.cache
+D:\ProgramLabs\Laba6var2\Laba6var2\obj\Debug\net7.0\Laba6var2.AssemblyInfo.cs
+D:\ProgramLabs\Laba6var2\Laba6var2\obj\Debug\net7.0\Laba6var2.csproj.CoreCompileInputs.cache
+D:\ProgramLabs\Laba6var2\Laba6var2\obj\Debug\net7.0\Laba6var2.dll
+D:\ProgramLabs\Laba6var2\Laba6var2\obj\Debug\net7.0\refint\Laba6var2.dll
+D:\ProgramLabs\Laba6var2\Laba6var2\obj\Debug\net7.0\Laba6var2.pdb
+D:\ProgramLabs\Laba6var2\Laba6var2\obj\Debug\net7.0\Laba6var2.genruntimeconfig.cache
+D:\ProgramLabs\Laba6var2\Laba6var2\obj\Debug\net7.0\ref\Laba6var2.dll

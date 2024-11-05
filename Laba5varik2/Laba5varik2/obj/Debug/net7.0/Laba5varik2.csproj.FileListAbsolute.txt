@@ -1,0 +1,14 @@
+D:\ProgramLabs\Laba5varik2\Laba5varik2\bin\Debug\net7.0\Laba5varik2.exe
+D:\ProgramLabs\Laba5varik2\Laba5varik2\bin\Debug\net7.0\Laba5varik2.deps.json
+D:\ProgramLabs\Laba5varik2\Laba5varik2\bin\Debug\net7.0\Laba5varik2.runtimeconfig.json
+D:\ProgramLabs\Laba5varik2\Laba5varik2\bin\Debug\net7.0\Laba5varik2.dll
+D:\ProgramLabs\Laba5varik2\Laba5varik2\bin\Debug\net7.0\Laba5varik2.pdb
+D:\ProgramLabs\Laba5varik2\Laba5varik2\obj\Debug\net7.0\Laba5varik2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramLabs\Laba5varik2\Laba5varik2\obj\Debug\net7.0\Laba5varik2.AssemblyInfoInputs.cache
+D:\ProgramLabs\Laba5varik2\Laba5varik2\obj\Debug\net7.0\Laba5varik2.AssemblyInfo.cs
+D:\ProgramLabs\Laba5varik2\Laba5varik2\obj\Debug\net7.0\Laba5varik2.csproj.CoreCompileInputs.cache
+D:\ProgramLabs\Laba5varik2\Laba5varik2\obj\Debug\net7.0\Laba5varik2.dll
+D:\ProgramLabs\Laba5varik2\Laba5varik2\obj\Debug\net7.0\refint\Laba5varik2.dll
+D:\ProgramLabs\Laba5varik2\Laba5varik2\obj\Debug\net7.0\Laba5varik2.pdb
+D:\ProgramLabs\Laba5varik2\Laba5varik2\obj\Debug\net7.0\Laba5varik2.genruntimeconfig.cache
+D:\ProgramLabs\Laba5varik2\Laba5varik2\obj\Debug\net7.0\ref\Laba5varik2.dll
