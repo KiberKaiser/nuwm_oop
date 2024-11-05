@@ -1,0 +1,16 @@
+D:\ProgramLabs\Laba7varik2\Laba7varik2\bin\Debug\net7.0-windows\Laba7varik2.exe
+D:\ProgramLabs\Laba7varik2\Laba7varik2\bin\Debug\net7.0-windows\Laba7varik2.deps.json
+D:\ProgramLabs\Laba7varik2\Laba7varik2\bin\Debug\net7.0-windows\Laba7varik2.runtimeconfig.json
+D:\ProgramLabs\Laba7varik2\Laba7varik2\bin\Debug\net7.0-windows\Laba7varik2.dll
+D:\ProgramLabs\Laba7varik2\Laba7varik2\bin\Debug\net7.0-windows\Laba7varik2.pdb
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\Laba7varik2.Form1.resources
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\Laba7varik2.csproj.GenerateResource.cache
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\Laba7varik2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\Laba7varik2.AssemblyInfoInputs.cache
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\Laba7varik2.AssemblyInfo.cs
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\Laba7varik2.csproj.CoreCompileInputs.cache
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\Laba7varik2.dll
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\refint\Laba7varik2.dll
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\Laba7varik2.pdb
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\Laba7varik2.genruntimeconfig.cache
+D:\ProgramLabs\Laba7varik2\Laba7varik2\obj\Debug\net7.0-windows\ref\Laba7varik2.dll

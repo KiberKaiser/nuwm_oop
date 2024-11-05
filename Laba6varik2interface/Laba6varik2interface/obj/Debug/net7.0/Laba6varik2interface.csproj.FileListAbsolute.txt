@@ -1,0 +1,14 @@
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\bin\Debug\net7.0\Laba6varik2interface.exe
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\bin\Debug\net7.0\Laba6varik2interface.deps.json
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\bin\Debug\net7.0\Laba6varik2interface.runtimeconfig.json
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\bin\Debug\net7.0\Laba6varik2interface.dll
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\bin\Debug\net7.0\Laba6varik2interface.pdb
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\obj\Debug\net7.0\Laba6varik2interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\obj\Debug\net7.0\Laba6varik2interface.AssemblyInfoInputs.cache
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\obj\Debug\net7.0\Laba6varik2interface.AssemblyInfo.cs
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\obj\Debug\net7.0\Laba6varik2interface.csproj.CoreCompileInputs.cache
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\obj\Debug\net7.0\Laba6varik2interface.dll
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\obj\Debug\net7.0\refint\Laba6varik2interface.dll
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\obj\Debug\net7.0\Laba6varik2interface.pdb
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\obj\Debug\net7.0\Laba6varik2interface.genruntimeconfig.cache
+D:\ProgramLabs\Laba6varik2interface\Laba6varik2interface\obj\Debug\net7.0\ref\Laba6varik2interface.dll

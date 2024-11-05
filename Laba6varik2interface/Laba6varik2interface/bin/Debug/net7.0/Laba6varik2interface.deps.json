@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Laba6varik2interface/1.0.0": {
+        "runtime": {
+          "Laba6varik2interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba6varik2interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
